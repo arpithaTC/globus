@@ -9,14 +9,7 @@ BFS (Breadth-First Search) is ideal for the above problem because:
 5. Simple Implementation: BFS is straightforward to implement and understand, making it well-suited for handling pathfinding in grid-based games.
 Functions Description:
 // BFS Pathfinding Algorithm with Multiple Sources
-1.
-2. // 3.
-//
-4.
-//
-5.
-//
-6. 7.
+
 int bfs_multi_source(const vector<vector<int>>& battlefield, const vector<pair<int, int>>& sources, pair<int, int> target)// Function to check if the next move is valid
 bool is_valid_move(int x, int y, const vector<vector<int>>& battlefield)
 Function to locate the start (0) and target (6) positions
@@ -28,7 +21,10 @@ Function to load battlefield from a UI exported JSON file
 vector<vector<int>> read_battlefield_from_ui_json(const string& file_path) Main function -> Start of execution
 Example of CPP output.
 ![battlefield3](https://github.com/user-attachments/assets/03a9834b-3c70-45e7-a76a-6072eae2072a)
+
 Example of Python output.
+
+
 https://github.com/user-attachments/assets/5c2003ab-74c0-4c20-88ea-10a1c9fc3cd2
 
 
