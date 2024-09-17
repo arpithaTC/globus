@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/nlohmann/json/releases/tag/v3.11.0
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/11171548/df870bab-9254-40a1-b559-b99da5a9c971?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240908T070344Z&X-Amz-Expires=300&X-Amz-Signature=c1576a4998c2f6f66372eccff70f7de48cb9c67d5e7ecda984b6e9c6f7923f85&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=11171548&response-content-disposition=attachment%3B%20filename%3Djson.tar.xz&response-content-type=application%2Foctet-stream
