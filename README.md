@@ -26,3 +26,7 @@ Function to load battlefield from a JSON file
 vector<vector<int>> read_battlefield_from_json(const string& file_path)
 Function to load battlefield from a UI exported JSON file
 vector<vector<int>> read_battlefield_from_ui_json(const string& file_path) Main function -> Start of execution
+
+
+https://github.com/user-attachments/assets/5c2003ab-74c0-4c20-88ea-10a1c9fc3cd2
+
